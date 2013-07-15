@@ -1,0 +1,4 @@
+04-21 19:56:28.956: D/gralloc_goldfish(5826): Emulator without GPU emulation detected.
+04-21 19:56:41.727: I/Choreographer(5826): Skipped 59 frames!  The application may be doing too much work on its main thread.
+04-21 19:56:41.947: W/IInputConnectionWrapper(5826): showStatusIcon on inactive InputConnection
+04-21 19:56:42.607: I/Choreographer(5826): Skipped 62 frames!  The application may be doing too much work on its main thread.
